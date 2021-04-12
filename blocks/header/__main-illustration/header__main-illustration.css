@@ -1,0 +1,9 @@
+.header__main-illustration {
+    position: absolute;
+    right: 0;
+    top: 64px;
+    width: 568px;
+    height: 568px;
+    background-color: #2f80ed;
+    animation: rotation 20s infinite linear;
+}

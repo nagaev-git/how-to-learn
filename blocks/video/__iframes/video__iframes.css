@@ -1,0 +1,11 @@
+.video__iframes {
+    margin-bottom: -50px;
+}
+
+#ytplayer {
+    margin-right: 20px;
+}
+
+#ytplayer:last-child {
+    margin: 0;
+}
