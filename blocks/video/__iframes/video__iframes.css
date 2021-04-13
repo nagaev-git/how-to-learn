@@ -2,10 +2,10 @@
     margin-bottom: -50px;
 }
 
-#ytplayer {
+.video__iframes_container {
     margin-right: 20px;
 }
 
-#ytplayer:last-child {
+.video__iframes_container:last-child {
     margin: 0;
 }
